@@ -25,15 +25,10 @@ import pandas as pd
 import numpy as np
 import joblib
 import pickle 
-from tensorflow.keras.models import load_model
+from tensorflow.keras.models import load_model```
 
-
----------
 
 You can install the required packages using pip:
 
 pip install pandas numpy joblib tensorflow
-
-
----
 Refer to the implementation Jupyter notebook for details on the implementation.
