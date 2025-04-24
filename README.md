@@ -20,9 +20,8 @@ For more detailed methodology and background, please refer to the paper.
 
 Make sure the following Python libraries are installed:
 
-You can install the required packages using pip:
-
-'''pip install pandas numpy joblib tensorflow
+```python
+pip install pandas numpy joblib tensorflow
 
 Refer to the implementation Jupyter notebook for details on the implementation.
 
