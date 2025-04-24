@@ -12,7 +12,7 @@ We use three different techniques:
 - Geometric Harmonics (GH)
 - Double Diffusion Maps (DDM)
 
-Although the original dataset cannot be shared, the trained models are available here to make predictions on similarly structured data.
+Although the original dataset cannot be shared, the trained models are available here to make predictions on similarly structured data. Refer to the implementation Jupyter notebook for details on the implementation.
 
 For more detailed methodology and background, please refer to the paper.
 
@@ -22,6 +22,6 @@ Make sure the following Python libraries are installed:
 
 ```python
 pip install pandas numpy joblib tensorflow
+        
 
-Refer to the implementation Jupyter notebook for details on the implementation.
 
